@@ -1,0 +1,11 @@
+{
+  "name": "miniwall",
+  "version": "1.0.0",
+  "description": "A minimalistic social media web app",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "author": "Tudor Gonta",
+  "license": "ISC"
+}
